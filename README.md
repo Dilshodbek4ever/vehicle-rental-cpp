@@ -3,34 +3,6 @@
 A simple console-based **Vehicle Rental System** built using C++ and Object-Oriented Programming (OOP).  
 This project demonstrates the use of **classes, inheritance, polymorphism, abstraction, encapsulation, file handling, and modular programming**.
 
----
-
-## Project Structure
-
-project/
-│
-├── src/
-│ ├── main.cpp
-│ ├── vehicle.cpp
-│ ├── car.cpp
-│ ├── bike.cpp
-│ ├── truck.cpp
-│ ├── rentalmanager.cpp
-│ ├── vehicle.h
-│ ├── car.h
-│ ├── bike.h
-│ ├── truck.h
-│ └── rentalmanager.h
-│
-├── data/
-│ ├── vehicles.txt
-│ └── history.txt
-│
-└── rental.exe
-
-
----
-
 ## Features
 
 ### ✔ Vehicle Management
